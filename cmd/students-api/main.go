@@ -4,5 +4,5 @@ import (
 )
 
 func main(){
-	fmt.Println("Hello, Students API!")
+	fmt.Println("Hello, Students API")
 }
